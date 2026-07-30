@@ -1,0 +1,6 @@
+{
+  "name": "BitTorrent P2P Protocol & Swarm Simulator",
+  "description": "Interactive real-time visualization of Peer-to-Peer file sharing, BitTorrent choking algorithms, DHT discovery, piece propagation, and network analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
