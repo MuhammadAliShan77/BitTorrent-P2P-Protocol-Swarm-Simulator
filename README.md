@@ -135,6 +135,9 @@ Licensed under the **MIT License**.
 This simulator implements specifications documented in official BitTorrent Enhancement Proposals (BEPs), including **BEP-0003** (Core BitTorrent Protocol), **BEP-0005** (DHT Protocol), **BEP-0011** (Peer Exchange), and **BEP-0055** (Hole Punching). Created for educational and technical demonstration purposes.
 
 ---
+<div align="center">
+<sub>Built with ❤️ as part of an internship project at InoTech Solutions (Pvt) Ltd.</sub>
+</div>
 
 
 
