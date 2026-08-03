@@ -136,7 +136,5 @@ This simulator implements specifications documented in official BitTorrent Enhan
 
 ---
 
-<div align="center">
-<sub>Built with ❤️ as part of an internship project at InoTech Solutions (Pvt) Ltd.</sub>
-</div>
+
 
